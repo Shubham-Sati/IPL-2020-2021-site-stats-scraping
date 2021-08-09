@@ -1,4 +1,4 @@
-# IPL-2020-2021-site-stats-scrapping
+# IPL-2020-2021-site-stats-scraping
 
 Developed this project to learn web scraping.
 Project scrapes data from "https://www.espncricinfo.com/series/ipl-2020-21-1210595" .
